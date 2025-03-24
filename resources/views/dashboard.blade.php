@@ -22,11 +22,11 @@
       class="w-full" />
   </div>
   <div id="item3" class="carousel-item w-full">
-    <img
+    <img 
       src="https://img.daisyui.com/images/stock/photo-1414694762283-acccc27bca85.webp"
       class="w-full" />
   </div>
-  <div id="item4" class="carousel-item w-full">
+  <div  class="carousel-item w-full">
     <img
       src="https://img.daisyui.com/images/stock/photo-1665553365602-b2fb8e5d1707.webp"
       class="w-full" />
