@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Halaman Profile</h1>
+    <h1>Halaman Profile e</h1>
 </body>
 </html>

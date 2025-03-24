@@ -8,7 +8,7 @@
 <body>
     <h1>MAP</h1>
 <x-maps-leaflet
-    :centerPoint="['lat' => -7.8239, 'long' => 112.0119]"
+    :centerPoint="['lat'  => -7.89239, 'long' => 112.0119]"
     :zoomLevel="12"
     :options="[
         'maxBounds' => [
